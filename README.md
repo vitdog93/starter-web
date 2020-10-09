@@ -8,3 +8,7 @@ This is a simple website project for showing how to use Git and Github together.
 ## Deployment
 
 ## How To Contribute
+
+### Copyright 
+
+ 2020 Git.Traing
