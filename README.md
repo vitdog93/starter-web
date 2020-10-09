@@ -9,6 +9,8 @@ This is a simple website project for showing how to use Git and Github together.
 
 ## How To Contribute
 
+Please fork this repoitory and then issue Pull Request for review.
+
 ### Copyright 
 
  2020 Git.Traing
