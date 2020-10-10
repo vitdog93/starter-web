@@ -13,4 +13,4 @@ Please fork this repoitory and then issue Pull Request for review.
 
 ### Copyright 
 
- 2020 Git.Traing
+ 2020 Git.Traing . All right reserve
